@@ -1,3 +1,3 @@
-# Read the doc [HERE](https://mujin.github.io/mujinstatsapi/)
+# Read the doc [HERE](https://felixvd.github.io/statsapi/)
 
-### Or get the GraphQL schema [HERE](https://github.com/mujin/mujinstatsapi/blob/master/stats-api.graphql)
+### Or get the GraphQL schema [HERE](https://github.com/felixvd/statsapi/blob/master/stats-api.graphql)
